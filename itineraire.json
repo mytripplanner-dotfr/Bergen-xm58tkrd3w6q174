@@ -1,0 +1,93 @@
+{
+  "pays": "Norvège",
+  "drapeau": "🇳🇴",
+  "symbole": "🏔️",
+  "titre": "Escapade relaxante à Bergen, la porte des Fjords",
+  "budget_total": "750 €",
+  "duree": "3 jours",
+  "temps_vol": "2h00 (depuis Paris, france)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et première immersion à Bergen",
+      "legende": "Débutez votre séjour en douceur par une balade dans le quartier historique de Bryggen, classé à l'UNESCO, et imprégnez-vous de l'atmosphère maritime de Bergen. Profitez de l'après-midi pour vous installer et prendre vos marques dans cette charmante ville.",
+      "lieu": "Bergen",
+      "activites": [
+        "🛬 <strong>Arrivée à Bergen</strong>: Vol direct depuis Paris, puis transfert vers le centre-ville en Flybussen (bus de l'aéroport).",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Check-in et dépose des bagages pour profiter de l'après-midi sans encombre.",
+        "🚶‍♀️ <strong>Balade dans Bryggen</strong>: Explorez les maisons colorées et les ruelles étroites de ce quartier emblématique, classé au patrimoine mondial de l'UNESCO, et découvrez son histoire hanséatique."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le \"Bergen Card\" peut être avantageux pour les transports et certaines activités si vous prévoyez de nombreuses visites sur plusieurs jours."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Nature et panoramas apaisants",
+      "legende": "Prenez de la hauteur pour admirer la vue imprenable sur la ville et les fjords, puis détendez-vous dans un cadre naturel. La journée se poursuit avec la découverte de la vie marine locale, une activité relaxante et instructive.",
+      "lieu": "Bergen",
+      "activites": [
+        "🚠 <strong>Mont Fløyen en funiculaire</strong>: Montez au sommet pour une vue panoramique spectaculaire sur Bergen et ses environs. Profitez d'une balade douce dans les sentiers forestiers aménagés.",
+        "☕ <strong>Pause café avec vue</strong>: Savourez un \"kaffe og vafler\" (café et gaufres) au café du Mont Fløyen, face au panorama époustouflant sur la ville et les îles.",
+        "🐠 <strong>Aquarium de Bergen</strong>: Découvrez la vie marine locale des fjords norvégiens et des espèces exotiques dans un cadre relaxant, idéal pour tous les âges et à l'abri de la pluie."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Conseil balade",
+          "texte": "De nombreux sentiers faciles partent du sommet du Mont Fløyen, parfaits pour une promenade relaxante au cœur de la nature norvégienne, loin de l'agitation urbaine."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🛍️",
+      "titre": "Culture locale et saveurs maritimes",
+      "legende": "Plongez dans l'ambiance du marché aux poissons, explorez l'histoire locale et profitez d'un dernier moment de détente avant le départ. Une journée pour s'imprégner des dernières saveurs et souvenirs de Bergen.",
+      "lieu": "Bergen",
+      "activites": [
+        "🐟 <strong>Marché aux poissons (Fisketorget)</strong>: Flânez parmi les étals, goûtez aux spécialités de fruits de mer frais et imprégnez-vous de l'ambiance locale et vivante de ce marché historique.",
+        "🏛️ <strong>Musée Hanséatique</strong>: Découvrez l'histoire fascinante des marchands de la Ligue Hanséatique et leur influence sur Bergen, en visitant l'une des maisons historiques de Bryggen.",
+        "🛍️ <strong>Shopping et souvenirs</strong>: Profitez des dernières heures pour quelques achats de souvenirs ou une dernière balade dans le centre-ville piétonnier de Bergen.",
+        "🛫 <strong>Départ de Bergen</strong>: Transfert vers l'aéroport de Flesland (BGO) pour votre vol retour vers Paris, la tête pleine de souvenirs norvégiens."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Expérience culinaire",
+          "texte": "Ne manquez pas de goûter au saumon fumé, aux crevettes fraîches ou à la soupe de poisson du marché, une véritable institution locale et un délice pour les papilles."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 223 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 50 €/pers (bus aéroport + transports locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 200 €/pers (base 3 jours, type \"moyen\")", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 200 €/pers (base 3 nuits en chambre double 3* partagée)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 65 €/pers (funiculaire, aquarium, musée)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mai à Septembre pour des températures plus douces, mais préparez-vous à la pluie toute l'année, Bergen étant l'une des villes les plus pluvieuses d'Europe.", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "Bergen est réputée pour sa pluie. Prévoir des vêtements imperméables et chauds, même en été, est essentiel pour profiter pleinement de votre séjour.", "symbole": "☔" },
+    { "titre": "La monnaie est la Couronne norvégienne (NOK). Les cartes de crédit sont largement acceptées partout, peu de liquide est nécessaire pour les transactions courantes.", "symbole": "💳" },
+    { "titre": "Le centre-ville est très accessible à pied. Le funiculaire et le bus sont pratiques pour les excursions hors du centre et pour rejoindre l'aéroport.", "symbole": "🚶‍♀️" },
+    { "titre": "La langue officielle est le norvégien, mais l'anglais est couramment parlé par la majorité des habitants, facilitant grandement la communication.", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-BGO/2026-05-15/2026-05-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Norway - Bergen", "url": "https://www.visitnorway.fr/destinations/fjord-norway/bergen/", "symbole": "📘" },
+    { "legende": "Horaires des transports locaux", "titre": "Skyss (Transports Bergen)", "url": "https://www.skyss.no/en/", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Bergen (Yr.no)", "url": "https://www.yr.no/en/forecast/daily-table/1-92416/Norway/Vestland/Bergen/Bergen", "symbole": "🌤️" }
+  ]
+}
